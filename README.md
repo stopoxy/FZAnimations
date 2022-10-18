@@ -14,3 +14,23 @@ Daria (MTV)
 
 SEGA
 ![Screenshot-20221018-094029](https://user-images.githubusercontent.com/110960847/196475809-bb633dbe-5c1c-4699-9c35-72e49959a60f.png)
+
+# Easiest Installation method
+1. Insert SD Card into the reader on your PC
+2. Download animation folder(s)
+3. Drag and drop folder(s) into sd/dolphin
+4. Edit manifest.txt located in sd/dolphin
+```
+name: <FOLDER_NAME>_128x64
+Min butthurt: 0
+Max butthurt: 10
+Min level: 1
+Max level: 3
+Weight: 3
+```
+- "name" is the name of the animations folder. (change according of course)
+- "Max level" adjust to max level if on custom firmware. (ie. 30, 15 etc)
+- "Weight" the higher the weight the higher the chance the animation will show up before other animations.
+ 
+ 5. Save file, eject SD, put SD in flipper, and reboot! All done!
+
