@@ -34,3 +34,13 @@ Weight: 3
  
  5. Save file, eject SD, put SD in flipper, and reboot! All done!
 
+# Special Thanks
+Kuronons: https://github.com/Kuronons/FZ_graphics
+
+Haseo: https://github.com/Haseosama/FZ_Animations
+
+TalkingSasquatch: https://github.com/skizzophrenic/Talking-Sasquach
+
+Majik: 
+
+RogueMaster:
