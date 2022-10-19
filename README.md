@@ -44,3 +44,12 @@ TalkingSasquatch: https://github.com/skizzophrenic/Talking-Sasquach
 Majik: 
 
 RogueMaster:
+
+DoobTheGoober:
+
+UberGuidoZ: 
+
+### Contact me
+- stop oxy #8008
+
+
