@@ -52,4 +52,4 @@ UberGuidoZ:
 ### Contact me
 - stop oxy #8008
 
-
+small edit: hi all, graduating is hard. i will be back on top of animations soon :0
