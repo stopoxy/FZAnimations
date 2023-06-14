@@ -50,6 +50,6 @@ DoobTheGoober:
 UberGuidoZ: 
 
 ### Contact me
-- tyequil #8008
+- stopopiates #5555
 
 small edit: hi all, graduating is hard. i will be back on top of animations soon :0
